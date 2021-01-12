@@ -1,0 +1,31 @@
+.panda-card{
+    border: none;
+}
+
+.panda-footer-card{
+    background-color: white;
+    border: none;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.panda-slider .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+} 
+
+.btn-bg-color{
+    background-color: rgb(235, 100, 123);
+    padding: 4px;
+    border-radius: 4px;
+}
+.subscribe-bg-color{
+    background-color: #fceae8;
+
+}
+
+.sb-btn{
+    margin-top: 5px;
+}
